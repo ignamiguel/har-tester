@@ -1,0 +1,26 @@
+{
+  "name": "har-tester",
+  "version": "1.0.0",
+  "description": "Test request and responses from har file",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignamiguel/har-tester.git"
+  },
+  "keywords": [
+    "har",
+    "api",
+    "test",
+    "node",
+    "js"
+  ],
+  "author": "ignamiguel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ignamiguel/har-tester/issues"
+  },
+  "homepage": "https://github.com/ignamiguel/har-tester#readme"
+}
